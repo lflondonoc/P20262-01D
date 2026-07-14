@@ -15,8 +15,6 @@ Este repositorio reúne los materiales, ejemplos, ejercicios, talleres y evaluac
 | **Prerrequisito** | Lógica de Programación |
 | **Lenguaje de programación** | Java |
 
-## Programación Orientada a Objetos
-
 ## Núcleos temáticos
 El curso se organiza en cuatro núcleos temáticos:
 
