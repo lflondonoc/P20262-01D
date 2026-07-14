@@ -18,17 +18,17 @@ Este repositorio reúne los materiales, ejemplos, ejercicios, talleres y evaluac
 ## Núcleos temáticos
 El curso se organiza en cuatro núcleos temáticos:
 
-### 1.Fundamentos de Programación Orientada a Objetos
+### 1. Fundamentos de Programación Orientada a Objetos
 Comprende la identificación y abstracción de problemas, la creación de clases y objetos, el uso de constructores, métodos, diagramas de clases y relaciones de asociación, agregación y composición.
 También se introducen las pruebas automatizadas con JUnit, el desarrollo guiado por pruebas TDD, el control de versiones y las buenas prácticas de programación.
 
-### 2.Encapsulamiento
+### 2. Encapsulamiento
 Aborda la protección y organización de la información dentro de las clases mediante atributos, métodos de acceso, modificadores de visibilidad, paquetes y módulos.
 
-### 3.Herencia
+### 3. Herencia
 Estudia la reutilización y extensión de las clases mediante relaciones de generalización y especialización, clases abstractas e interfaces.
 
-### 4.Polimorfismo
+### 4. Polimorfismo
 Desarrolla la capacidad de trabajar con diferentes tipos de objetos mediante una estructura común, utilizando interfaces, clases abstractas, sobrecarga y otras formas de implementación del polimorfismo.
 
 ### Evaluaciones parciales
