@@ -31,11 +31,9 @@ Estudia la reutilización y extensión de las clases mediante relaciones de gene
 ### 4. Polimorfismo
 Desarrolla la capacidad de trabajar con diferentes tipos de objetos mediante una estructura común, utilizando interfaces, clases abstractas, sobrecarga y otras formas de implementación del polimorfismo.
 
-### Evaluaciones parciales
+## Evaluaciones parciales
 Las evaluaciones parciales del curso se realizarán en las siguientes fechas:
 
-## Actividades evaluativas
-Las evaluaciones parciales del curso se realizarán en las siguientes fechas:
 | **Actividad evaluativa** | **Semana** | **Fecha** | **Porcentaje** |
 |:------------------------:|:----------:|:---------:|:--------------:|
 | **Parcial 1** | 6 | 8 de septiembre de 2026 | 20 % |
