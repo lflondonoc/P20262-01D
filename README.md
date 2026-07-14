@@ -48,9 +48,9 @@ En este repositorio se publicarán progresivamente:
 - Materiales y ejemplos desarrollados durante las clases.
 - Ejercicios de aplicación.
 - Talleres individuales y grupales.
-
-Este repositorio tiene fines académicos y sirve como apoyo para el desarrollo de las actividades del curso Programación I durante el periodo 2026-2.
 - Proyectos y casos de estudio.
 - Pruebas automatizadas con JUnit.
 - Orientaciones para las evaluaciones parciales.
 - Recursos complementarios para el aprendizaje de Java y POO.
+
+Este repositorio tiene fines académicos y sirve como apoyo para el desarrollo de las actividades del curso Programación I durante el periodo 2026-2.
