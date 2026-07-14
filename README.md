@@ -3,18 +3,16 @@ Este repositorio reúne los materiales, ejemplos, ejercicios, talleres y evaluac
 
 ## Información del curso
 
-| **Información** | **Detalle** |
-|:----------------|:------------|
-| **Espacio académico** | Programación I |
-| **Código** | 12309 |
-| **Créditos académicos** | 3 |
-| **Horas semanales** | 4 |
-| **Total de horas del semestre** | 144 |
-| **Horas de docencia directa** | 64 |
-| **Horas de trabajo independiente** | 80 |
-| **Modalidad** | Presencial |
-| **Prerrequisito** | Lógica de Programación |
-| **Lenguaje de programación** | Java |
+## Actividades evaluativas
+
+| **Actividad evaluativa** | **Semana** | **Fecha** | **Porcentaje** |
+|:------------------------:|:----------:|:---------:|:--------------:|
+| **Parcial 1** | 6 | 8 de septiembre de 2026 | 20 % |
+| **Parcial 2** | 11 | 13 de octubre de 2026 | 20 % |
+| **Parcial 3** | 15 | 10 de noviembre de 2026 | 20 % |
+| **Proyecto final** | 16 | 17 y 19 de noviembre de 2026 | 20 % |
+| **Seguimiento** | Durante el semestre | Actividades sin previo aviso | 20 % |
+| **Total del curso** | — | — | **100 %** |
 
 ## Núcleos temáticos
 El curso se organiza en cuatro núcleos temáticos:
