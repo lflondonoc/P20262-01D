@@ -31,3 +31,26 @@ Estudia la reutilización y extensión de las clases mediante relaciones de gene
 
 ### Polimorfismo
 Desarrolla la capacidad de trabajar con diferentes tipos de objetos mediante una estructura común, utilizando interfaces, clases abstractas, sobrecarga y otras formas de implementación del polimorfismo.
+
+### Evaluaciones parciales
+Las evaluaciones parciales del curso se realizarán en las siguientes fechas:
+## Actividades evaluativas
+
+| **Actividad evaluativa** | **Semana** | **Fecha** | **Porcentaje** |
+|:-------------------------|:----------:|:----------|---------------:|
+| **Parcial 1** | 6 | 8 de septiembre de 2026 | 20 % |
+| **Parcial 2** | 11 | 13 de octubre de 2026 | 20 % |
+| **Parcial 3** | 15 | 10 de noviembre de 2026 | 20 % |
+| **Proyecto final** | 16 | 17 y 19 de noviembre de 2026 | 20 % |
+| **Seguimiento** | Durante el semestre | Actividades sin previo aviso | 20 % |
+| **Total del curso** | — | — | **100 %** |
+
+### Contenido del repositorio
+En este repositorio se publicarán progresivamente:
+- Materiales y ejemplos desarrollados durante las clases.
+- Ejercicios de aplicación.
+- Talleres individuales y grupales.
+- Proyectos y casos de estudio.
+- Pruebas automatizadas con JUnit.
+- Orientaciones para las evaluaciones parciales.
+- Recursos complementarios para el aprendizaje de Java y POO.
